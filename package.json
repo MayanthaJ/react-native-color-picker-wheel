@@ -1,0 +1,31 @@
+{
+  "name": "react-native-color-picker-wheel",
+  "version": "1.0.1",
+  "description": "A color picker component for react native",
+  "main": "ColorPicker.js",
+  "homepage": "https://github.com/MayanthaJ/react-native-color-picker-wheel#readme",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MayanthaJ/react-native-color-picker-wheel.git"
+  },
+  "bugs": {
+    "url": "https://github.com/MayanthaJ/react-native-color-picker-wheel/issues"
+  },
+  "dependencies": {
+    "react-native-elevation": "^1.0.0"
+  },
+  "keywords": [
+    "react-native",
+    "react native",
+    "material design",
+    "wheel",
+    "color",
+    "picker"
+  ],
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": ""
+}
